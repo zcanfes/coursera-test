@@ -1,3 +1,5 @@
 theme: jekyll-theme-cayman
 title: Welcome to my coursera page!
 description: This is a page to my coursera HTML, CSS, JS course
+plugins:
+  - jemoji
